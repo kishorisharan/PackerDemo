@@ -1,6 +1,6 @@
 {
   "variables": {
-    "aws_ami_id": "ami-9b29b9fb",
+    "aws_ami_id": "ami-2ad04f4a",
     "aws_user": "ec2-user",
     "aws_region": "us-west-2",
     "aws_instance_type": "c4.large",
