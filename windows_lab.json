@@ -3,7 +3,7 @@
     "aws_ami_id": "ami-490b5831",
     "aws_user": "ec2-user",
     "aws_region": "us-west-2",
-    "aws_instance_type": "c4.large",
+    "aws_instance_type": "t2.micro",
     "build_id": "Windows-Demo-AMI-xxx",
     "aws_security_group_id": "",
     "aws_subnet_id": "",
